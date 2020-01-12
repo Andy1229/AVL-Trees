@@ -2,8 +2,8 @@
 The game was one of my assignments, and it was done in the second year.
 
 ## 1. Problem
-You should start your program by initializing an empty AVL tree. 
-Your program takes one line as input. 
+You should start your program by initializing an empty AVL tree.\
+Your program takes one line as input.\
 The input line contains n “modification moves” separated by spaces (1 ≤ n ≤ 100). The available modification moves are
 * Aint (Character A followed by an int value between 1 and 100): A3 means insert value 3 into the AVL tree. If 3 is already in the tree, do nothing.
 * Dint (Character D followed by an int value between 1 and 100): D3 means delete value 3 into the AVL tree. If 3 is not in the tree, do nothing.
